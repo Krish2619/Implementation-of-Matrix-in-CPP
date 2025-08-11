@@ -23,42 +23,42 @@ To create a set of C++ programs that demonstrate fundamental matrix operations i
 
 4. Algorithms:
 
-Program 1: Matrix Input and Display
+   Program 1: Matrix Input and Display
 
-1. Input number of rows and columns.
-2. Declare a 2D array of appropriate size.
-3. Input each element from the user.
-4. Display the matrix.
+   1. Input number of rows and columns.
+   2. Declare a 2D array of appropriate size.
+   3. Input each element from the user.
+   4. Display the matrix.
 
-Program 2: Addition of Two Matrices
+   Program 2: Addition of Two Matrices
 
-1. Input dimensions of matrices.
-2. Input elements for both matrices.
-3. Add corresponding elements and store in a result matrix.
-4. Display both input matrices and the resulting sum matrix.
+   1. Input dimensions of matrices.
+   2. Input elements for both matrices.
+   3. Add corresponding elements and store in a result matrix.
+   4. Display both input matrices and the resulting sum matrix.
 
-Program 3: Multiplication of Two Matrices
+   Program 3: Multiplication of Two Matrices
 
-1. Input dimensions of the two matrices.
-2. Verify compatibility (columns of first = rows of second).
-3. Input elements for both matrices.
-4. Multiply matrices using triple nested loops.
-5. Display the product matrix.
+   1. Input dimensions of the two matrices.
+   2. Verify compatibility (columns of first = rows of second).
+   3. Input elements for both matrices.
+   4. Multiply matrices using triple nested loops.
+   5. Display the product matrix.
 
-Program 4: Diagonal Sum of a Square Matrix
+   Program 4: Diagonal Sum of a Square Matrix
 
-1. Input size of the square matrix.
-2. Input matrix elements.
-3. Sum elements of the main diagonal and secondary diagonal.
-4. Adjust total if the matrix size is odd by subtracting the center element once.
-5. Display diagonal sums and total.
+   1. Input size of the square matrix.
+   2. Input matrix elements.
+   3. Sum elements of the main diagonal and secondary diagonal.
+   4. Adjust total if the matrix size is odd by subtracting the center element once.
+   5. Display diagonal sums and total.
 
-Program 5: Transpose of a Matrix
+   Program 5: Transpose of a Matrix
 
-1. Input number of rows and columns.
-2. Input matrix elements.
-3. Generate transpose by swapping rows and columns.
-4. Display original and transposed matrices.
+   1. Input number of rows and columns.
+   2. Input matrix elements.
+   3. Generate transpose by swapping rows and columns.
+   4. Display original and transposed matrices.
 
 5. Program Explanations:
    
